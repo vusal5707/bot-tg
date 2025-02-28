@@ -8,7 +8,7 @@ from aiogram.utils import executor
 TOKEN = "7717469656:AAH-ECdtNeqzNGmBIAuEaUFhPTQeE-Liq7M"
 DOMAIN = "https://sanslisaray674.com"  # Замените на нужный домен
 CHECK_INTERVAL = 900  # 15 минут (в секундах)
-YOUR_TELEGRAM_USER_ID = 7803376405  # Замените на ваш Telegram ID
+YOUR_TELEGRAM_USER_ID = "7803376405"  # Замените на ваш Telegram ID
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
